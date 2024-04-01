@@ -1,0 +1,14 @@
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\bin\Debug\net8.0\aula03.console.exe
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\bin\Debug\net8.0\aula03.console.deps.json
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\bin\Debug\net8.0\aula03.console.runtimeconfig.json
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\bin\Debug\net8.0\aula03.console.dll
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\bin\Debug\net8.0\aula03.console.pdb
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\aula03.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\aula03.console.AssemblyInfoInputs.cache
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\aula03.console.AssemblyInfo.cs
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\aula03.console.csproj.CoreCompileInputs.cache
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\aula03.console.dll
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\refint\aula03.console.dll
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\aula03.console.pdb
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\aula03.console.genruntimeconfig.cache
+C:\Users\conta\OneDrive\Documentos\Faculdade Vincit\Novos projetos\C#\aula03.console\obj\Debug\net8.0\ref\aula03.console.dll
